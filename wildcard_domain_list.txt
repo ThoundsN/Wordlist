@@ -72,3 +72,6 @@ pscp.tv
 periscope.tv
 vine.co
 cbhq.net
+Tapplock.com
+line.me
+line.naver.jp
