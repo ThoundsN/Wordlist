@@ -1,8 +1,6 @@
-/gulpfile.js
 gulpfile.js
 Gruntfile.js
-/Gruntfile.js
-/.travis.yml
+.travis.yml
 common
 CVS
 root
