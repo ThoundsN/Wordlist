@@ -1,4 +1,3 @@
-
 2b.trustpilot.com
 9apps.com
 amap.com
@@ -7,9 +6,7 @@ astaro.ch
 astaro.com
 astaro.de
 astaro.info
-astaro.net
 astaro.org
-astaro-tech.com
 autonavi.com
 ayyildiz.de
 base.de
@@ -148,10 +145,6 @@ udimg.com
 ud.wtf
 umeng.com
 upgrade.com
-urbandictionary.biz
-urbandictionary.blog
-urbandictionary.net
-urbandictionary.org
 usiness.trustpilot.com
 uthenticate.trustpilot.com
 vanillacommunities.com
@@ -166,4 +159,3 @@ wpesvc.net
 ww.trustpilot.com
 ycombinator.com
 zynga.com
-zyngagames.com
