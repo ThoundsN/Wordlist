@@ -1,5 +1,4 @@
 2b.trustpilot.com
-9apps.com
 amap.com
 astaro.at
 astaro.ch
@@ -79,7 +78,6 @@ marcus.com
 marcus.co.uk
 mediamarkt.o2service.de
 mein.aetkasmart.de
-mein.simfinity.de
 meraki.com
 minodes.com
 mojave.net
