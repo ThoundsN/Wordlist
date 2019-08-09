@@ -7,3 +7,5 @@ dingtalk
 puertorico.emc.com
 gs.com
 autonavi
+emc.com
+favicon.ico
