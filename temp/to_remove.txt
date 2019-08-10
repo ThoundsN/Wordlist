@@ -9,3 +9,7 @@ gs.com
 autonavi
 emc.com
 favicon.ico
+pinterest
+venmo
+twimg
+
