@@ -12,3 +12,10 @@ favicon.ico
 pinterest
 venmo
 twimg
+robots.txt
+rails.png
+ok.ru
+translate.twitter
+tavlaplus
+zynga
+crossdomain
