@@ -19,3 +19,5 @@ translate.twitter
 tavlaplus
 zynga
 crossdomain
+dell
+ford
