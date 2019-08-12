@@ -1,0 +1,160 @@
+https://signal.twilio.com/api/sessions
+http://analytics.vanillaforums.com/api/tokens
+https://tr.android.staging.cloud.netflix.com/api/users/
+https://testnet.bitmex.com/api/v1
+https://unifi-go.ubnt.com/api/changelog
+https://unifi-go.ubnt.com/api/swagger.json
+https://staging-mondia-lcm.blau.de/api/api-docs
+http://support.bitdefender.com/api/test
+
+{"apiVersion":"2","swaggerVersion":"1.2","apis":[{"path":"/Client Grants"},{"path":"/Clients"},{"path":"/Connections"},{"path":"/Device Credentials"},{"path":"/Grants"},{"path":"/Logs"},{"path":"/Resource Servers"},{"path":"/Roles"},{"path":"/Rules"},{"path":"/Rules Configs"},{"path":"/User Blocks"},{"path":"/Users"},{"path":"/Users By Email"},{"path":"/Blacklists"},{"path":"/Email Templates"},{"path":"/Emails"},{"path":"/Guardian"},{"path":"/Jobs"},{"path":"/Stats"},{"path":"/Tenants"},{"path":"/Anomaly"},{"path":"/Tickets"}]}
+
+{
+  "_embedded": {
+    "changelog": {
+      "_links": {
+        "self": {
+          "href": "https://unifi-go.ubnt.com/api/changelog"
+        }
+      }
+    },
+    "installations": {
+      "_links": {
+        "self": {
+          "href": "https://unifi-go.ubnt.com/api/installations"
+        }
+      }
+    },
+    "tiers": {
+      "_links": {
+        "self": {
+          "href": "https://unifi-go.ubnt.com/api/tiers"
+        }
+      }
+    },
+    "users": {
+      "_links": {
+        "self": {
+          "href": "https://unifi-go.ubnt.com/api/users"
+        }
+      }
+    },
+    "versions": {
+      "_links": {
+        "self": {
+          "href": "https://unifi-go.ubnt.com/api/versions"
+        }
+      }
+    }
+  },
+  "_links": {
+    "documentation": {
+      "href": "https://unifi-go.ubnt.com/ui"
+    },
+    "self": {
+      "href": "https://unifi-go.ubnt.com/api/"
+    },
+    "specification": {
+      "href": "https://unifi-go.ubnt.com/api/swagger.json"
+    },
+    "status": {
+      "href": "https://unifi-go.ubnt.com/status"
+    }
+  },
+  "version": "9.0.0"
+}
+
+
+{
+    "apiVersion": null,
+    "swaggerVersion": "1.2",
+    "apis": [
+        {
+            "path": "/activity",
+            "description": "Operations about activity"
+        },
+        {
+            "path": "/agent_groups",
+            "description": "Operations about agent groups"
+        },
+        {
+            "path": "/agents",
+            "description": "Operations about agents"
+        },
+        {
+            "path": "/api_keys",
+            "description": "Operations about API Keys"
+        },
+        {
+            "path": "/chats",
+            "description": "Operations about Chats"
+        },
+        {
+            "path": "/downloads",
+            "description": "Operations about Downloads"
+        },
+        {
+            "path": "/feedback",
+            "description": "Operations about Feedbacks"
+        },
+        {
+            "path": "/glossary",
+            "description": "Operations about Glossary Words"
+        },
+        {
+            "path": "/kb",
+            "description": "Operations about Knowledgebase"
+        },
+        {
+            "path": "/news",
+            "description": "Operations about News Items"
+        },
+        {
+            "path": "/organizations",
+            "description": "Operations about Organization"
+        },
+        {
+            "path": "/people",
+            "description": "Operations about People/Persons"
+        },
+        {
+            "path": "/tasks",
+            "description": "Operations about Tasks"
+        },
+        {
+            "path": "/ticket_escalations",
+            "description": "Operations about Ticket escalations"
+        },
+        {
+            "path": "/ticket_fields",
+            "description": "Operations about Ticket fields"
+        },
+        {
+            "path": "/ticket_filters",
+            "description": "Operations about Ticket urgencies"
+        },
+        {
+            "path": "/ticket_layout",
+            "description": "Operations about Ticket layouts"
+        },
+        {
+            "path": "/ticket_macros",
+            "description": "Operations about Ticket macros"
+        },
+        {
+            "path": "/ticket_statuses",
+            "description": "Operations about Ticket status"
+        },
+        {
+            "path": "/ticket_triggers",
+            "description": "Operations about Ticket triggers"
+        },
+        {
+            "path": "/ticket_urgencies",
+            "description": "Operations about Ticket urgencies"
+        },
+        {
+            "path": "/tickets",
+            "description": "Operations about Tickets"
+        }
+    ]
