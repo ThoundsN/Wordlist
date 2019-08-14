@@ -201,7 +201,6 @@
 /.builds
 /.bundle
 /.bz2
-/.bzr/README
 /.c9/
 /.c9revisions/
 /.cache
@@ -615,7 +614,6 @@
 /admin/views/style/green/style.css
 /htaccess.txt
 /components/com_mailto/views/sent/metadata.xml
-/themes/README.txt
 /favicon.ico
 /admin/help/zh_cn/database.xml
 /static/js/admincp.js
@@ -1534,7 +1532,6 @@
 /crond/logs/
 /cronlog.txt
 /crossdomain.xml
-/clientaccesspolicy.xml
 /culeadora.txt
 /custom/db.ini
 /customers.csv
@@ -2366,8 +2363,6 @@
 /Read%20Me.txt
 /read.me
 /Read_Me.txt
-/README.htm
-/Readme.txt
 /recentservers.xml
 /register.php
 /RELEASE_NOTES.txt
@@ -2809,7 +2804,6 @@
 /zm_cms/spaw2/dialogs/dialog.php
 /zone-h.php
 /~install/
-/README.rdoc
 /Rakefile
 /app
 /app/assets/images/rails.png
@@ -2851,7 +2845,6 @@
 /dispatch.fcgi
 /dispatch.rb
 /doc
-/doc/README_FOR_APP
 /lib
 /lib/assets
 /lib/assets/.gitkeep
@@ -3143,7 +3136,6 @@
 /contrib
 /contrib/
 /contrib/geo2nginx.pl
-/contrib/README
 /contrib/unicode2nginx
 /contrib/unicode2nginx/koi-utf
 /contrib/unicode2nginx/unicode-to-nginx.pl
@@ -3154,8 +3146,6 @@
 /docs/CHANGES.ru
 /docs/LICENSE
 /docs/OpenSSL.LICENSE
-/docs/PCRE.LICENCE
-/docs/README
 /docs/zlib.LICENSE
 /html
 /html/
@@ -5154,13 +5144,7 @@
 /docs/BUGS.txt
 /docs/CHANGELOG.txt
 /docs/INSTALL.txt
-/docs/licences/ADOdb.licence.txt
-/docs/licences/Flyspray.licence.txt
-/docs/licences/gnu_lgpl.html
-/docs/licences/jsCalendar.licence.txt
-/docs/licences/NuvolaIcons.licence.txt
 /docs/QA_CHECKLIST.txt
-/docs/README.txt
 /docs/TODO.txt
 /docs/UPGRADING.txt
 /feed.php
