@@ -1,3 +1,26 @@
+/login 
+/api/api—docs 
+/api/swagger—ui. html 
+/application.yml 
+/bitnami/ 
+/bitnami/index.html 
+/django.log 
+/docs.json 
+/explore/projects 
+/graphql.php?debug=1
+/grid 
+/grid/console 
+/grunt_config.json 
+/index-list.html 
+/jolokia 
+/jotokia/tist 
+/manage/dashboard 
+/nexus/ 
+/sidekiq 
+/sidekiq/busy 
+/swagger/index.html 
+/swagger/swagger-ui.html 
+/swagger/vl/swagger.json 
 /.babelrc
 /.bash_history
 /.bashrc
@@ -5919,4 +5942,3 @@
 /api/v1/Verify
 /api/v1/verify
 /api/v1/accounts
-/api/v1/monitoring/address-check
