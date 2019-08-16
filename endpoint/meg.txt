@@ -70,7 +70,6 @@
 /yarn-debug.log
 /yarn-error.log
 /yarn.lock
-
 /%25%30aSet-Cookie:crlf=injection
 /%25%30%61Set-Cookie:crlf=injection
 /%u000aSet-Cookie:crlf=injection
@@ -320,6 +319,8 @@
 /.gitmodules
 /.gitreview
 /.grunt/
+/backoffice
+/admin1/proxy.php
 /.gz
 /.hash
 /.hg/
