@@ -9,9 +9,11 @@ api-docs
 application.wadl
 docs
 doc
+token
 swagger.json
 swaggerui.html
 accelerate
+update_profile
 Accelerate
 acquire
 Acquire
@@ -28,7 +30,7 @@ Admin
 alert
 Alert
 sessions
-Sessions
+essions
 annotate
 Annotate
 anticipate
