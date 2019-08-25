@@ -1,5 +1,6 @@
 gulpfile.js
 Gruntfile.js
+dradis-plugin/metadata
 .travis.yml
 common
 CVS
@@ -3719,6 +3720,7 @@ security.html
 input.html
 language.html
 apache
+file/
 FileNotFoundException.php
 Request.class.php
 components.class.php

@@ -10,7 +10,8 @@
 /graphql.php?debug=1
 /grid 
 /grid/console 
-/grunt_config.json 
+/grunt_config.json
+/dradis-plugin/metadata
 /index-list.html 
 /uplynk/examples/dash.html
 /jolokia 

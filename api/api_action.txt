@@ -9771,6 +9771,9 @@ Utilities
 utilities
 utility
 utils
+getConversationCount
+getUnreadMessages
+getMessageCountsPerJobKey
 validation
 validatior
 vap
