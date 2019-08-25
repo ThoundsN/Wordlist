@@ -1,0 +1,12 @@
+GET /%s HTTP/1.1
+Host: prospect.indeed.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Sec-Fetch-Site: none
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Cookie: __ssid=700921f1f55625533d9af0ba6ae8b9e; ADV=1; CTK=1dhru85kah1mi800; INDEEDADS_PROMO2="pt=us-freetopost:pv=1c01d94ec5b1da3e:SG=308dfddc224b4045612c824fa842049b"; intercom-id-edw0pjx4=819a8a65-6094-4346-8f78-f5eb80b1a56e; RF="TFTzyBUJoNrX61kMyRnARb0jZg1T9S9dFfCqZKMXaMjEkdZA6AzXrJfhdhFzfriOyHaV5_Sli3lXBwaY8QJR3w=="; CPREF=y0208SmojfHtid9ggrtFmCGgH3PtLOZ3W7MHGeCjtKnnihO-pkMmXVnd_pKAf7NT7U4kf9hhtrHTDcabSTEXqg; intercom-id-aegbqond=7fb03ec5-d4dd-46c7-bdc8-6126f111410d; intercom-session-vjplyp2s=UHhWY1lVeVBxbUthaGV0b3pJZ3hSN3Aydjh3dzZabHJhbnlRb3ZpcTk3WnVXbzZ3U0kwdWJuMjNDOEtLWnB3WC0tVkZCcXdUMFFDanBHL3liRkw3cmpzUT09--61df96882adc45784507017199ae92d474d4e71e; DNC=1; LC=co=US&hl=en; primeOptimizelyGroups=null; intercom-id-pn6o23fv=2e0824a9-cb8b-4153-a6b5-39cefd033e80; CO=US; IRF=7YXfKDzcx1LSlrTvkIbKZOevUFJ9wB0ODFxSeKGtfXO7v6a-lPc49460bo5cOUwj; jbcu97poa1pidoamb3nqnf728-agile-email=ragnarokv@bugcrowdninja.com; jbcu97poa1pidoamb3nqnf728-agile-crm-guid=ec05b367-668b-98dd-879b-6bc1162e0f9b; jbcu97poa1pidoamb3nqnf728-agile-original-referrer=https%3A//www.indeed.com/prime/employer; LOCALE=en_US; SOCK="h08u0rbU9_JsWTAOSyT96aiI-uI="; SHOE="ZwGgi5Oo7LOWGdjono2Ni0M0kRQPf9isLCehupOsmaLtyN5bMk2461jVc0Ou08hWSJqxf-us0r2Hhfii43-1h06-_sHgnN6oldKHqxuJJiCM7y-sBgup1Ibkj0FEyZSf8ktkHPYl2z5Z"; PCA=570dd9ef4a54166e; ADOC=5281162321448811; fbm_115882278440564=base_domain=.indeed.com; _fby_site_=1%7Cindeed.com%7C1566617588%7C1566617588%7C1566617588%7C1566617906%7C1%7C3%7C3
