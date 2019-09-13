@@ -9,7 +9,9 @@
 /explore/projects 
 /graphql.php?debug=1
 /grid 
-/grid/console 
+/grid/console
+/errorlog.axd
+/elmah.axd
 /grunt_config.json
 /dradis-plugin/metadata
 /index-list.html 
