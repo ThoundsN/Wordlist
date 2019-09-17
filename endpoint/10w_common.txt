@@ -47241,6 +47241,8 @@ cdrom
 certenroll
 certificate
 certificates
+certificates/
+certificate/
 certification
 certs
 cfdocs
@@ -61432,6 +61434,8 @@ append
 appl
 appliation
 application.wadl
+application.wadl?detail=false
+application.wadl?detail=true
 AppsLocalLogin
 AppsLogin
 apr
