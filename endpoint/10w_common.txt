@@ -33890,8 +33890,6 @@ lazy.php
 adminedit.php
 shows
 inside
-article[list]
-article[page]
 .empty
 cms.sql
 Error.template.php
@@ -36830,7 +36828,6 @@ kdatabase.php
 kroutes.php
 KConfig.php
 galeri
-[Originals]
 setup.xml
 inc_ilanlar.asp
 calendar.asp
@@ -54629,7 +54626,6 @@ pings_open
 pixelDensity()
 pixelHeight
 Pixels
-pixels[]
 pixelWidth
 PlaceCursor
 Plant_Clear
@@ -55677,7 +55673,6 @@ Xcelerate
 YourAccount
 ZB
 ZBmsc
-[SecCheck]
 _Admin
 _Layouts
 _Members
@@ -94710,8 +94705,6 @@ zzztest
 !res
 !textove_diskuse
 !ut
-[
-]
 __errfiles__
 __temp__
 _address
@@ -95969,7 +95962,6 @@ pierce
 piglet
 pinkfloy
 pjimages
-plain]
 planned giving
 plato
 plover
@@ -96044,7 +96036,6 @@ quickdoc
 quicknews
 quickordercmd
 quicksand
-quote]
 qwaszx
 qwert
 qwerty12
