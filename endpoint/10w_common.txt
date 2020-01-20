@@ -51534,6 +51534,9 @@ actuator/trace
 actuator/logfile
 actuator/mappings
 actuator/env
+env/
+actuator/reatart
+actuator/health
 jolokia
 api_key
 api_secret_key
