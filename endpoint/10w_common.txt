@@ -50,6 +50,7 @@ backup
 backup.sql
 beans
 cgi
+/rev/config.json
 charts
 charts/
 codeception.yml
