@@ -1,0 +1,47 @@
+'
+"
+#
+\
+&
+%
+..;/..;/
+..;\..;\
+?
+.
+@%23
+%26
+%25
+..%3b/..%3b/
+..%3b\..%3b\
+%3f
+%40
+null
+Test
+?debug=true
+\uffff
+%00
+ %0d 
+ %0a
+ /..%2f
+?jsonp=sd
+?callback=dsd
+.json
+?filter=all
+?filter=all&
+?type=html
+?type=xml
+?type=json
+?format=html
+?format=xml
+?format=json
+?admin=true
+?admin=1
+?debug=1
+?debug=on
+?render=1
+?render=true
+../../
+../
+?inlcude=user
+?inlcude=email
+?inlcude=email#
