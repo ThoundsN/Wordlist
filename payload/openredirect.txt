@@ -214,16 +214,6 @@ http:00330.0x3a.54990
 http:google.com@00330.0x3a.54990
 http:3H6k7lIAiqjfNeN@00330.0x3a.54990
 http:XY>.7d8T\205pZM@00330.0x3a.54990
-〱localdomain.pw
-〵localdomain.pw
-ゝlocaldomain.pw
-ーlocaldomain.pw
-ｰlocaldomain.pw
-/〱localdomain.pw
-/〵localdomain.pw
-/ゝlocaldomain.pw
-/ーlocaldomain.pw
-/ｰlocaldomain.pw
 %68%74%74%70%73%3a%2f%2f%6c%6f%63%61%6c%64%6f%6d%61%69%6e%2e%70%77
 https://%6c%6f%63%61%6c%64%6f%6d%61%69%6e%2e%70%77
 <>javascript:alert(1);
@@ -463,6 +453,5 @@ https://%0a%0dⓁ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/google.com
 https://Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/google.com
 //Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/google.com
-//notgoogle.com/
 http://notgoogle.com/
 http://google.com.com/
