@@ -43,7 +43,7 @@ host
 port
 to
 out
-view
+viewcode 
 dir
 show
 navigation

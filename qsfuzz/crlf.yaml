@@ -1,0 +1,11 @@
+rules:
+  CRLF:
+    description: Test for CRLF
+    injections:
+      - "[[originalvalue]]%0D%0Acrlf:+ragnarokv1337"
+      - "[[originalvalue]]%E5%98%8D%E5%98%8Acrlf:+ragnarokv1337"
+    expectation:
+      responseHeaders:
+        - crlf: ragnarokv
+        #  - Set-Cookie: crlfinjection=ragnarokv1337
+        #  - X-Frame-Options: SAMEORIGIN

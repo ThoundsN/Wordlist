@@ -1,0 +1,46 @@
+rules:
+  open_redirect:
+    description: Test for potential openredirect bugs
+    injections:
+      - "https://attacker.com"
+      - "//attacker.com"
+      - "///attacker.com"
+      # - "\/\/attacker.com"
+      - "attacker%E3%80%82com"
+      - "@attacker.com"
+      - "http:http:attacker.com"
+      - "//attacker%00.com"
+      - "http:/attacker%252ecom"
+      - "///[[domain]]@attacker.com"
+      - "https:attacker.com"
+      # - "\/\/attacker.com/"
+      # - "/\/attacker.com/"
+      - "////attacker%E3%80%82com"
+      - "//attacker.com?"
+      - "///[[domain]]@attacker.com/"
+      - "http:http://attacker.com"
+      - "//.@.@attacker.com"
+      - "https://[[domain]].com@attacker.com"
+      - "https://attacker.c℀.[[domain]]"
+      - "https://[[domain]]%09.attacker.com"
+      - "attacker.comğ.[[domain]]"
+      - "attacker.com%00.[[domain]]"
+      - "attacker.com%ff.[[domain]]"
+      - "attacker.com%ff@[[domain]]"
+      # - "attacker.com\udfff@[[domain]]"
+      # - "https://attacker.com\udfff@[[domain]]"
+      - "https://attacker.com%E3%80%82.[[domain]]"
+      - "https://@attacker.com\\@[[domain]]"
+      - "/%2f%5c%2f%67%6f%6f%67%6c%65%2e%63%6f%6d/"
+      - "//%09/attacker.com"
+      # - "////\;@attacker.com"
+      - "/https:attacker.com"
+    expectation:
+      # responseCodes:
+      #   - 301
+      #   - 302
+      #   - 200
+      responseHeaders:
+        - Location: attack
+        # - Location: "67"
+
