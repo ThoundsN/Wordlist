@@ -10,6 +10,39 @@ rules:
       injection: "[[originalvalue]]--'"
       baselineMatches:
         - "responseCode"
+  SqlInjection_500_1:
+    description: Test for potential SQL injections by injecting characters to get 500 response
+    injections:
+      - "[[originalvalue]]'"
+    expectation:
+      responseCodes:
+        - 500
+    heuristics:
+      injection: "[[originalvalue]]/*'*/"
+      baselineMatches:
+        - "responseCode"
+  SqlInjection_500_2:
+    description: Test for potential SQL injections by injecting characters to get 500 response
+    injections:
+      - "[[originalvalue]]'"
+    expectation:
+      responseCodes:
+        - 500
+    heuristics:
+      injection: "[[originalvalue]]\'"
+      baselineMatches:
+        - "responseCode"
+  SqlInjection_500_3:
+    description: Test for potential SQL injections by injecting characters to get 500 response
+    injections:
+      - "[[originalvalue]]'"
+    expectation:
+      responseCodes:
+        - 500
+    heuristics:
+      injection: "[[originalvalue]])%23"
+      baselineMatches:
+        - "responseCode"        
   SqlInjection_error:
     description: Test for potential SQL injections by injecting characters to get appraent  error messages 
     injections:
